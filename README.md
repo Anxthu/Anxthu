@@ -1,6 +1,6 @@
 <!-- PROFILE IMAGE -->
 <div align="center">
-  <img src="./pfp.jpg" alt="Ananthu - Designed to Solve. Built to Last." width="100%" style="max-width: 600px;" />
+  <img src="./pfp.jpg" alt="Ananthu - Designed to Solve. Built to Last." width="400" />
   
   <br/>
   <br/>
