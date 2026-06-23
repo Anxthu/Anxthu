@@ -1,16 +1,16 @@
-<!-- AESTHETIC BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=header&text=Ananthu&fontSize=45&fontColor=ffffff&desc=Design%20Engineer&descAlignY=65&descSize=20" width="100%" />
-
-<br/>
-
+<!-- PROFILE IMAGE -->
 <div align="center">
+  <img src="./pfp.jpg" alt="Ananthu - Designed to Solve. Built to Last." width="100%" style="max-width: 600px;" />
+  
+  <br/>
+  <br/>
   <p><i>Bridging the gap between engineering and design.</i></p>
   <p>I build accessible, pixel-perfect user interfaces with a heavy focus on motion, typography, and component architecture.</p>
   <br/>
   <p>
     <a href="https://ananthu.pages.dev/"><b>Portfolio</b></a> &nbsp;✦&nbsp;
     <a href="https://www.linkedin.com/in/pananthapadmanabhan-nair/"><b>LinkedIn</b></a> &nbsp;✦&nbsp;
-    <a href="ananthupublications@gmail.com"><b>Email</b></a>
+    <a href="mailto:ananthupublications@gmail.com"><b>Email</b></a>
   </p>
 </div>
 
